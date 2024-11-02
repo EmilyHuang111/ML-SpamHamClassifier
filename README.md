@@ -1,1 +1,2 @@
 <h1 align="center">Project Description</h1>
+This project uses spam/ham data that was given by the client. The data includes the subject and email message. This project aims to use multiple machine learning models such as recurrent neutral networks, logistic regression, or naive bayes to predict whether an email is spam or ham. The performance measures that will be used is the F1 score and accuracy score.
